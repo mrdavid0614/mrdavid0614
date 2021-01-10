@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a teen coder which have so much passion in software development area, and the most kind of technologies.
+
+- 🌱 I’m currently learning JavaScript.
+
+### 📫 How to reach me:
+
+https://www.linkedin.com/in/raymondmora/
+
 <!--
 **MrDavid0614/MrDavid0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
