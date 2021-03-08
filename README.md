@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a teen coder which have so much passion in software development area, and the most kind of technologies.
+I'm a coder which have so much passion in software development area, and the most kind of technologies.
 
 #### 🌱 I’m currently learning:
 - JavaScript
