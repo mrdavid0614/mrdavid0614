@@ -16,7 +16,7 @@ https://raymondmora-5f3df.web.app/
 
 ### 📫 How to reach me:
 
-[My Linkedin Profile](https://www.linkedin.com/in/raymondmora/)
+[My Linkedin Profile](https://www.linkedin.com/in/raymondmora/)\
 [My email](mailto:raymondinf23@gmail.com)
 
 <!--
