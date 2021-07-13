@@ -3,13 +3,16 @@
 I'm a coder which have so much passion in software development area, and the most kind of technologies.
 
 #### 🌱 I’m currently learning:
-- TypeScript
-- Angular
-- Python
-- Django
+- 💚 VueJS
+
+#### 📒 I'm currently reading:
+- Eloquent JavaScript
+- You Don't Know JS
 
 ### My portfolio website:
 https://raymondmora-5f3df.web.app/
+
+![David Mora Stats](https://github-readme-stats.danestves.com/api?username=mrdavid0614&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)
 
 ### 📫 How to reach me:
 
