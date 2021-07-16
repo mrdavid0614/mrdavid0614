@@ -12,9 +12,9 @@ I'm a coder which have so much passion in software development area, and the mos
 ### My portfolio website:
 https://raymondmora-5f3df.web.app/
 
-![David Mora Stats](https://github-readme-stats.danestves.com/api?username=mrdavid0614&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)\
-![David Mora's Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdavid0614)\
 ![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)
+![David Mora's Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdavid0614)
+![David Mora Stats](https://github-readme-stats.danestves.com/api?username=mrdavid0614&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)
 
 ### 📫 How to reach me:
 
