@@ -3,7 +3,7 @@
 I'm a coder which have so much passion in software development area, and the most kind of technologies.
 
 #### 🌱 I’m currently learning:
-- 💚 VueJS
+- 🅰 Angular ❤
 
 #### 📒 I'm currently reading:
 - Eloquent JavaScript
