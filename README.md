@@ -4,6 +4,9 @@ I'm a coder which have so much passion in software development area, and the mos
 
 #### 🌱 I’m currently learning:
 - 🅰 Angular ❤
+- 📖 OOP
+- 📖 Data Sctructures
+- 📖 SOLID Principles
 
 #### 📒 I'm currently reading:
 - Eloquent JavaScript
