@@ -5,11 +5,9 @@ I'm a coder which have so much passion in software development area, and the mos
 #### 🌱 I’m currently learning:
 - 📖 OOP
 - 📖 Data Sctructures
+- 📖 CS Fundamentals
 - 📖 SOLID Principles
-
-#### 📒 I'm currently reading:
-- Eloquent JavaScript
-- You Don't Know JS
+- 📖 Design Patterns
 
 ### My portfolio website:
 https://raymondmora-5f3df.web.app/
