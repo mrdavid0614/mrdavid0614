@@ -3,14 +3,7 @@
 I'm a coder which have so much passion in software development area, and the most kind of technologies.
 
 #### 🌱 I’m currently learning:
-- 📖 OOP
-- 📖 Data Sctructures
-- 📖 CS Fundamentals
-- 📖 SOLID Principles
 - 📖 Design Patterns
-
-### My portfolio website:
-https://raymondmora-5f3df.web.app/
 
 ![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)\
 ![David Mora's Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdavid0614)\
