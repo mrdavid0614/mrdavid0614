@@ -8,7 +8,6 @@ I'm a coder which have so much passion in software development area, and the mos
 ![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)\
 ![David Mora's Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdavid0614)\
 [![David Mora's Holopin board](https://holopin.io/api/user/board?user=mrdavid06)](https://holopin.io/@mrdavid06)
-![David Mora Stats](https://github-readme-stats.danestves.com/api?username=mrdavid0614&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)\
 <a href="https://app.daily.dev/MrDavid06"><img src="https://api.daily.dev/devcards/e660922550ee4f8ab8a1fff3fd83bba8.png?r=p7t" width="400" alt="Raymond Mora's Dev Card"/></a>
 
 ### 📫 How to reach me:
