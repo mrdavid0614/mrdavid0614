@@ -2,9 +2,6 @@
 
 I'm a coder which have so much passion in software development area, and the most kind of technologies.
 
-#### 🌱 I’m currently learning:
-- 📖 Design Patterns
-
 ![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)\
 ![David Mora's Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdavid0614)\
 <a href="https://app.daily.dev/MrDavid06"><img src="https://api.daily.dev/devcards/e660922550ee4f8ab8a1fff3fd83bba8.png?r=p7t" width="400" alt="Raymond Mora's Dev Card"/></a>
