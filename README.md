@@ -1,13 +1,28 @@
 ## Hi there 👋
 
-I'm a coder which have so much passion in software development area, and the most kind of technologies.
+Frontend Developer highly skilled in developing high-quality and user friendly web applications.
+
+# Skills
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,rxjs,mui,styledcomponents,html,css,sass,tailwind,figma&perline=10)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,firebase,graphql,postman,prisma&perline=10)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mongodb&perline=10)](https://skillicons.dev)
+
+## Dev tools
+[![My Skills](https://skillicons.dev/icons?i=vite,github,gitlab,azure,vscode,docker,git,bash,vercel,netlify&perline=10)](https://skillicons.dev)
+
+&nbsp;
 
 ![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)
 
 ### 📫 How to reach me:
 
-[My Linkedin Profile](https://www.linkedin.com/in/raymondmora/)\
-[My email](mailto:raymondinf23@gmail.com)
+&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raymondmora/)
 
 <!--
 **MrDavid0614/MrDavid0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
