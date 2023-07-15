@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Frontend Developer highly skilled in developing high-quality and user friendly web applications.
+Frontend Developer passionate about building new things with JavaScript and TypeScript.
 
 # Skills
 
