@@ -18,7 +18,7 @@ Frontend Developer passionate about building new things with JavaScript and Type
 
 &nbsp;
 
-![David Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)
+![Raymond Mora's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavid0614&layout=compact&theme=tokyonight&langs_count=10)
 
 ### 📫 How to reach me:
 
