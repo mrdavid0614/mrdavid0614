@@ -14,7 +14,7 @@ Frontend Developer passionate about building new things with JavaScript and Type
 [![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mongodb&perline=10)](https://skillicons.dev)
 
 ## Dev tools
-[![My Skills](https://skillicons.dev/icons?i=vite,github,gitlab,azure,vscode,docker,git,bash,vercel,netlify&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,github,gitlab,aws,azure,vscode,docker,git,bash,vercel,netlify&perline=10)](https://skillicons.dev)
 
 &nbsp;
 
