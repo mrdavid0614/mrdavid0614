@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Frontend Developer passionate about building new things with JavaScript and TypeScript.
+Frontend Developer passionate about building new things with the JavaScript ecosystem (Reactjs, React Native, Nextjs, ExpressJS).
 
 # Skills
 
