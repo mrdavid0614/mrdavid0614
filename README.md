@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Frontend Developer passionate about building new things with the JavaScript ecosystem (Reactjs, React Native, Nextjs, ExpressJS).
+Fullstack Developer passionate about building new things with the JavaScript ecosystem (Reactjs, React Native, Nextjs, ExpressJS). Exploring Go by building some sandbox projects in the free time.
 
 # Skills
 
